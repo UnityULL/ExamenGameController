@@ -1,4 +1,6 @@
 # Examen
+* Autor: Abel Delgado Falcón
+* Email: alu0100792218@ull.edu.es
 * Prueba de control realizada el viernes 9-11-2018 sobre eventos y game control.
 
 ### Objetivos
